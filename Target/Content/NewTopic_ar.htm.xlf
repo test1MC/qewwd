@@ -7,9 +7,9 @@
     xml:space="preserve"
     original="NewTopic.htm"
     source-language="en-us"
+    target-language="ar"
     MadCap:file-filter=""
-    datatype="xhtml"
-    target-language="ar">
+    datatype="xhtml">
     <header>
       <skl><external-file
           href="NewTopic.htm.skl" /></skl>
@@ -47,7 +47,9 @@
         restype="x-xml-h1"
         phase-name="pretrans"><source>NewTopic</source><seg-source><mrk
             mtype="seg"
-            mid="1">NewTopic</mrk></seg-source><target
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"
+            MadCap:parentConditions="|Default.PrintOnly">NewTopic</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
@@ -57,7 +59,9 @@
         restype="x-xml-p"
         phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"
+            MadCap:parentConditions="|Default.PrintOnly">Delete this text and replace it with your own content.</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"

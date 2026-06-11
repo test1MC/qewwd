@@ -7,9 +7,9 @@
     xml:space="preserve"
     original="Styles.css"
     source-language="en-us"
+    target-language="ar"
     MadCap:file-filter=""
-    datatype="x-css"
-    target-language="ar">
+    datatype="x-css">
     <header>
       <skl><external-file
           href="Styles.css.skl" /></skl>
